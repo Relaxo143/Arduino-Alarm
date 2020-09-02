@@ -4,7 +4,7 @@ int sensor = 11;
 int buzzer = A5;
 int red = 10;
 int i = 0;
-String Pass = "1234";
+String Pass = "1234"; //Put your PIN here. The program is designed to work with a 4-digit PIN, can be adjusted if needed. 
 String tempPass = "";
 
 const byte rows = 4; //four rows
